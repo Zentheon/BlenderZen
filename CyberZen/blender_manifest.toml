@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "cyberzen_theme"
+version = "0.1"
+name = "Cyberzen"
+tagline = "A splash of cyberpunk, a hint of retro, and a whole lot of orange and purple"
+maintainer = "Zentheon"
+type = "theme"
+
+website = "https://github.com/Zentheon/BlenderZen"
+tags = ["Dark", "High Contrast", "Colorful"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
